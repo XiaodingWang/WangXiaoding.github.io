@@ -7,7 +7,7 @@
   
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
-  <li><strong>[Oct. 2023]</strong> Our paper about trajectory forecasting is accepted by Elsevier Information Fusion. </li>
+  <li><strong>[Oct. 2023]</strong> No news yet. </li>
 </div>
 
 </ul>
