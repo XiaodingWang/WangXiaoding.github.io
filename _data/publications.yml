@@ -846,7 +846,7 @@ main:
   - title: A cross-blockchain based distributed crowdsouring system for Internet of Things
     authors: Min Peng; QinYang Miao; Hui Lin; <strong><u>Xiaoding Wang</u></strong>
     journal_short: ISPA/BDCloud/SocialCom/SustainCom
-    journal: 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking <strong>((ISPA/BDCloud/SocialCom/SustainCom)))</strong>
+    journal: 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking <strong>(ISPA/BDCloud/SocialCom/SustainCom)</strong>
     doi: https://doi.org/10.1109/ispa-bdcloud-socialcom-sustaincom51426.2020.00062
     pdf: ./assets/files/17.pdf
     type: "2"
@@ -942,7 +942,7 @@ main:
   - title: Multi-layer Access Control Mechanism based on Blockchain for Mobile Edge Computing
     authors: YiChen Hou; WenXin Liu; Hui Lin; <strong><u>Xiaoding Wang</u></strong>
     journal_short: ISPA/BDCloud/SocialCom/SustainCom
-    journal: 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking <strong>((ISPA/BDCloud/SocialCom/SustainCom)))</strong>
+    journal: 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking <strong>(ISPA/BDCloud/SocialCom/SustainCom)</strong>
     doi: https://doi.org/10.1109/ispa-bdcloud-socialcom-sustaincom51426.2020.00061
     pdf: ./assets/files/11.pdf
     type: "2"
