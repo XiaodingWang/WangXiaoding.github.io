@@ -859,7 +859,7 @@ main:
               year={2020},
               organization={IEEE}
             }
-    notes: EI
+    notes: EI, CCF C
 
   - title: A Machine Learning Based Connectivity Restoration Strategy for Industrial IoTs
     authors: Jiong Wang; Hua Zhang; Zhiqiang Ruan; Tao Wang；<strong><u>Xiaoding Wang</u></strong>
@@ -942,7 +942,7 @@ main:
   - title: Multi-layer Access Control Mechanism based on Blockchain for Mobile Edge Computing
     authors: YiChen Hou; WenXin Liu; Hui Lin; <strong><u>Xiaoding Wang</u></strong>
     journal_short: ISPA/BDCloud/SocialCom/SustainCom
-    journal: Ieee Int Conf on Parallel & Distributed Processing with Applications, Ubiquitous Computing & Communications, Big Data & Cloud Computing, Social Computing & Networking, Sustainable Computing & Communications
+    journal: 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking <strong>((ISPA/BDCloud/SocialCom/SustainCom)))</strong>
     doi: https://doi.org/10.1109/ispa-bdcloud-socialcom-sustaincom51426.2020.00061
     pdf: ./assets/files/11.pdf
     type: "2"
