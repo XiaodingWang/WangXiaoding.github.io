@@ -976,7 +976,7 @@ main:
             publisher={Elsevier}
             }
     #image: ./assets/teaser/10.png 
-    notes: SCI-4区, CCF C
+    notes: SCI-4区, CCF B
 
   - title: Rollout algorithm for light-weight physical-layer authentication in cognitive radio networks
     authors: Shengnan Yan; <strong><u>Xiaoding Wang</u></strong>; Li Xu 
@@ -1017,7 +1017,7 @@ main:
             publisher={Elsevier}
             }
     #image: ./assets/teaser/8.png 
-    notes: SCI-4区, CCF C
+    notes: SCI-4区, CCF B
 
   - title: A Straight Skeleton Based Connectivity Restoration Strategy in the Presence of Obstacles for WSNs
     authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou
@@ -1043,7 +1043,7 @@ main:
   - title: Hybrid Recovery Strategy Based on Random Terrain in Wireless Sensor Networks
     authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou; Wei Wu
     journal_short: J.UCS
-    journal: SCI Programming
+    journal: Scientific Programming
     doi: https://doi.org/10.1155/2017/5807289
     pdf: ./assets/files/6.pdf
     type: "1"
