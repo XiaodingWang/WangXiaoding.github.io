@@ -58,7 +58,7 @@ main:
     authors: Ziyi Wan; Limei Lin; Yanze Huang; <strong><u>Xiaoding Wang</u></strong>
     journal_short: J. Chin. Inst. Eng.
     journal: Journal of the Chinese Institute of Engineers <strong>(J. Chin. Inst. Eng.)</strong>
-    pdf: ./assets/files/58.pdf
+    pdf: https://doi.org/10.1080/02533839.2024.2308236
     doi: https://doi.org/10.1080/02533839.2024.2308236
     type: "1"
     bibtex: | 
@@ -92,7 +92,7 @@ main:
     notes: SCI-1区 Top
 
   - title: "Fed-MPS: Federated learning with local differential privacy using model parameter selection for resource-constrained CPS"
-    authors: Shui Jiang; <strong><u>Xiaoding Wang</u></strong>; Youxiong Que; Hui Lin
+    authors: Shui Jiang; <strong><u>Xiaoding Wang*</u></strong>; Youxiong Que; Hui Lin
     journal_short: JSA
     journal: Journal of Systems Architecture <strong>(JSA)</strong>
     pdf: ./assets/files/56.pdf
@@ -224,7 +224,7 @@ main:
     notes: SCI-1区 Top, CCF B
 
   - title: Big Data Assisted Object Detection with Privacy Protection
-    authors: JianLin Zhang; <strong><u>Xiaoding Wang</u></strong>; Hui Lin
+    authors: JianLin Zhang; <strong><u>Xiaoding Wang*</u></strong>; Hui Lin
     journal_short: TrustCom
     journal: IEEE International Conference on Trust, Security and Privacy in Computing and Communications <strong>(TrustCom)</strong>, 2023
     pdf: ./assets/files/49.pdf
@@ -242,7 +242,7 @@ main:
     notes: EI, CCF C
 
   - title: Blockchain-Based Data Access Security Solutions for Medical Wearables
-    authors: Hui Lin; Quanwen He; Jia Hu; <strong><u>Xiaoding Wang</u></strong>
+    authors: Hui Lin; Quanwen He; Jia Hu; <strong><u>Xiaoding Wang*</u></strong>
     journal_short: TCBB
     journal: IEEE/ACM Transactions on Computational Biology and Bioinformatics <strong>(TCBB)</strong>
     pdf: ./assets/files/48.pdf
@@ -259,7 +259,7 @@ main:
     notes: SCI-3区, CCF B
 
   - title: Communication-Efficient Personalized Federated Meta-Learning in Edge Networks
-    authors: Feng Yu; Hui Lin; <strong><u>Xiaoding Wang</u></strong>; Sahil Garg; Georges Kaddoum; Satinder Singh; Mohammad Mehedi Hassan
+    authors: Feng Yu; Hui Lin; <strong><u>Xiaoding Wang*</u></strong>; Sahil Garg; Georges Kaddoum; Satinder Singh; Mohammad Mehedi Hassan
     journal_short: TNSM
     journal: IEEE Transactions on Network and Service Management <strong>(TNSM)</strong>
     pdf: ./assets/files/47.pdf
@@ -384,7 +384,7 @@ main:
     notes: EI, CCF C
 
   - title: Intelligent Anomaly Detection of Trajectories for IoT Empowered Maritime Transportation Systems
-    authors: Jia Hu; Kuljeet Kaur; Hui Lin; <strong><u>Xiaoding Wang</u></strong>; Mohammad Mehedi Hassan; Imran Razzak; Mohammad Hammoudeh
+    authors: Jia Hu; Kuljeet Kaur; Hui Lin; <strong><u>Xiaoding Wang*</u></strong>; Mohammad Mehedi Hassan; Imran Razzak; Mohammad Hammoudeh
     journal_short: TITS
     journal: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>
     pdf: ./assets/files/40.pdf
@@ -404,7 +404,7 @@ main:
     notes: SCI-1区 Top, CCF B
 
   - title: "Privacy-Aware Access Control in IoT-Enabled Healthcare: A Federated Deep Learning Approach"
-    authors: Hui Lin; Kuljeet Kaur; <strong><u>Xiaoding Wang</u></strong>; Georges Kaddoum; Jia Hu; Mohammad Mehedi Hassan
+    authors: Hui Lin; Kuljeet Kaur; <strong><u>Xiaoding Wang*</u></strong>; Georges Kaddoum; Jia Hu; Mohammad Mehedi Hassan
     journal_short: IOT
     journal: IEEE Internet of Things Journal <strong>(IOT)</strong>
     pdf: ./assets/files/39.pdf
@@ -461,7 +461,7 @@ main:
     notes: SCI-1区 Top, CCF C
 
   - title: An intelligent and privacy-enhanced data sharing strategy for blockchain-empowered Internet of Things
-    authors: Qinyang Miao; Hui Lin; Jia Hu; <strong><u>Xiaoding Wang</u></strong>
+    authors: Qinyang Miao; Hui Lin; Jia Hu; <strong><u>Xiaoding Wang*</u></strong>
     journal_short: DCN
     journal: Digital Communications and Networks <strong>(DCN)</strong>
     pdf: ./assets/files/36.pdf
@@ -481,7 +481,7 @@ main:
     notes: SCI-2区
 
   - title: "Blockchain-empowered secure federated learning system: Architecture and applications"
-    authors: Feng Yu; Hui Lin; <strong><u>Xiaoding Wang</u></strong>; Abdussalam Yassine; M. Shamim Hossain
+    authors: Feng Yu; Hui Lin; <strong><u>Xiaoding Wang*</u></strong>; Abdussalam Yassine; M. Shamim Hossain
     journal_short: CC
     journal: Computer Communications <strong>(CC)</strong>
     pdf: ./assets/files/35.pdf
@@ -500,7 +500,7 @@ main:
     notes: SCI-3区, CCF C
 
   - title: Data fusion and transfer learning empowered granular trust evaluation for Internet of Things
-    authors: Hui Lin; Sahil Garg; Jia Hu; <strong><u>Xiaoding Wang</u></strong>; Md. Jalil Piran; M. Shamim Hossain
+    authors: Hui Lin; Sahil Garg; Jia Hu; <strong><u>Xiaoding Wang*</u></strong>; Md. Jalil Piran; M. Shamim Hossain
     journal_short: Inf. Fusion.
     journal: Information Fusion <strong>(Inf. Fusion.)</strong>
     pdf: ./assets/files/34.pdf
@@ -519,7 +519,7 @@ main:
     notes: SCI-1区 Top
 
   - title: Privacy-Enhanced Data Fusion for Federated Learning Empowered Internet of Things
-    authors: Qingxin Lin; Kuai Xu; Yikun Huang; Feng Yu; <strong><u>Xiaoding Wang</u></strong>
+    authors: Qingxin Lin; Kuai Xu; Yikun Huang; Feng Yu; <strong><u>Xiaoding Wang*</u></strong>
     journal_short: Mob. Inf. Syst.
     journal: Mobile Information Systems <strong>(Mob. Inf. Syst.)</strong>
     pdf: ./assets/files/14.pdf
@@ -726,7 +726,7 @@ main:
     notes: SCI-1区 Top, CCF C
 
   - title: Federated deep reinforcement learning based secure data sharing for Internet of Things
-    authors: Qinyang Miao; Hui Lin; <strong><u>Xiaoding Wang</u></strong>; Mohammad Mehedi Hassan
+    authors: Qinyang Miao; Hui Lin; <strong><u>Xiaoding Wang*</u></strong>; Mohammad Mehedi Hassan
     journal_short: CN
     journal: Computer Networks <strong>(CN))</strong>
     doi: https://doi.org/10.1016/j.comnet.2021.108327
@@ -804,7 +804,7 @@ main:
     notes: SCI-1区 Top, CCF C
 
   - title: Privacy-Enhanced Data Fusion for COVID-19 Applications in Intelligent Internet of Medical Things
-    authors: Hui Lin; Sahil Garg; Jia Hu; <strong><u>Xiaoding Wang</u></strong>; Md. Jalil Piran; M. Shamim Hossain
+    authors: Hui Lin; Sahil Garg; Jia Hu; <strong><u>Xiaoding Wang*</u></strong>; Md. Jalil Piran; M. Shamim Hossain
     journal_short: IOT
     journal: IEEE Internet of Things Journal <strong>(IOT))</strong>
     doi: https://doi.org/10.1109/jiot.2020.3033129
@@ -824,7 +824,7 @@ main:
     notes: SCI-1区 Top, CCF C
 
   - title: Toward Secure Data Fusion in Industrial IoT Using Transfer Learning
-    authors: Hui Lin; Jia Hu; <strong><u>Xiaoding Wang</u></strong>; Mohammed F. Alhamid; Md. Jalil Piran
+    authors: Hui Lin; Jia Hu; <strong><u>Xiaoding Wang*</u></strong>; Mohammed F. Alhamid; Md. Jalil Piran
     journal_short: TII
     journal: IEEE Transactions on Industrial Informatics <strong>(TII))</strong>
     doi: https://doi.org/10.1109/tii.2020.3038780
@@ -844,7 +844,7 @@ main:
     notes: SCI-1区 Top, CCF C
 
   - title: A cross-blockchain based distributed crowdsouring system for Internet of Things
-    authors: Min Peng; QinYang Miao; Hui Lin; <strong><u>Xiaoding Wang</u></strong>
+    authors: Min Peng; QinYang Miao; Hui Lin; <strong><u>Xiaoding Wang*</u></strong>
     journal_short: ISPA/BDCloud/SocialCom/SustainCom
     journal: 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking <strong>(ISPA/BDCloud/SocialCom/SustainCom)</strong>
     doi: https://doi.org/10.1109/ispa-bdcloud-socialcom-sustaincom51426.2020.00062
@@ -862,7 +862,7 @@ main:
     notes: EI, CCF C
 
   - title: A Machine Learning Based Connectivity Restoration Strategy for Industrial IoTs
-    authors: Jiong Wang; Hua Zhang; Zhiqiang Ruan; Tao Wang；<strong><u>Xiaoding Wang</u></strong>
+    authors: Jiong Wang; Hua Zhang; Zhiqiang Ruan; Tao Wang；<strong><u>Xiaoding Wang*</u></strong>
     journal_short: IEEE Access
     journal: IEEE Access
     doi: https://doi.org/10.1109/access.2020.2987349
@@ -920,7 +920,7 @@ main:
     notes: EI
 
   - title: Learning-Based IoT Data Aggregation for Disaster Scenarios
-    authors: Min Peng; Sahil Garg; <strong><u>Xiaoding Wang</u></strong>; Hui Lin; M. Shamim Hossain
+    authors: Min Peng; Sahil Garg; <strong><u>Xiaoding Wang*</u></strong>; Hui Lin; M. Shamim Hossain
     journal_short: ACCESS
     journal: IEEE Access
     doi: https://doi.org/10.1109/access.2020.3008289
@@ -940,7 +940,7 @@ main:
     notes: SCI-3区
 
   - title: Multi-layer Access Control Mechanism based on Blockchain for Mobile Edge Computing
-    authors: YiChen Hou; WenXin Liu; Hui Lin; <strong><u>Xiaoding Wang</u></strong>
+    authors: YiChen Hou; WenXin Liu; Hui Lin; <strong><u>Xiaoding Wan*</u></strong>
     journal_short: ISPA/BDCloud/SocialCom/SustainCom
     journal: 2020 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking <strong>(ISPA/BDCloud/SocialCom/SustainCom)</strong>
     doi: https://doi.org/10.1109/ispa-bdcloud-socialcom-sustaincom51426.2020.00061
