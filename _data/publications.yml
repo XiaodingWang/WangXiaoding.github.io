@@ -22,8 +22,8 @@ main:
 
   - title: Precipitation nowcasting using transformer-based generative models and transfer learning for improved disaster preparedness
     authors: Md. Jalil Piran; <strong><u>Xiaoding Wang</u></strong>; Ho Jun Kim; Hyun Han Kwon
-    journal_short: :INT J APPL
-    journal: International Journal of Applied Earth Observation and Geoinformation <strong>(:INT J APPL)</strong>
+    journal_short: INT J APPL
+    journal: International Journal of Applied Earth Observation and Geoinformation <strong>(INT J APPL)</strong>
     pdf: ./assets/files/62.pdf
     doi: https://doi.org/10.1016/j.jag.2024.103962
     type: "1"
