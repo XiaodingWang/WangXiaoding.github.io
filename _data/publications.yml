@@ -1,6 +1,6 @@
 main:
   - title: "FedPA: Generator-Based Heterogeneous Federated Prototype Adversarial Learning"
-    authors: Lei Jiang; <strong><u>Xiaoding Wang</u></strong>; Xu Yang; Jiwu Shu; ; Hui Lin; Xun Yi
+    authors: Lei Jiang; <strong><u>Xiaoding Wang*</u></strong>; Xu Yang; Jiwu Shu; ; Hui Lin; Xun Yi
     journal_short: TDSC
     journal: IEEE Transactions on Dependable and Secure Computing <strong>(TDSC)</strong>
     pdf: ./assets/files/63.pdf
