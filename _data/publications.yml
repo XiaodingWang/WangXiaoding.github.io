@@ -13,7 +13,7 @@ main:
   - title: "AEFL: Anonymous and Efficient Federated Learning in Vehicle Road Cooperation Systems With Augmented Intelligence of Things"
     authors: <strong><u>Xiaoding Wang</u></strong>; Jiadong Li；Hui Lin; Cheng Dai;Sahil Garg; Georges Kaddoum
     journal_short: IOT
-    journal: IEEE Internet of Things Journal <strong>(IOT))</strong>
+    journal: IEEE Internet of Things Journal <strong>(IOT)</strong>
     #pdf: ./assets/files/64.pdf
     #doi: https://doi.org/10.1109/JIOT.2024.3446725
     type: "1"
