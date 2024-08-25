@@ -1,14 +1,14 @@
 main:
   - title: SemantiChain:A Trust Retrieval Blockchain basedon Semantic Sharding
-    authors: Zihang Zhen; <strong><u>Xiaoding Wang</u></strong>; Xu Yang; Jiwu Shu; Jia Hu; Hui Lin; Xun Yi
-    #journal_short: TIFS
-    #journal: IEEE Transactions on Information Forensics & Security (TIFS)
+    authors: Zihang Zhen; <strong><u>Xiaoding Wang*</u></strong>; Xu Yang; Jiwu Shu; Jia Hu; Hui Lin; Xun Yi
+    journal_short: TIFS
+    journal: IEEE Transactions on Information Forensics & Security (TIFS)
     #pdf: ./assets/files/65.pdf
     #doi: 
     type: "1"
     bibtex: | 
       
-    #notes: SCI-
+    notes: SCI-1区 TOP, CCF A
 
   - title: "AEFL: Anonymous and Efficient Federated Learning in Vehicle Road Cooperation Systems With Augmented Intelligence of Things"
     authors: <strong><u>Xiaoding Wang</u></strong>; Jiadong Li；Hui Lin; Cheng Dai;Sahil Garg; Georges Kaddoum
