@@ -1,4 +1,22 @@
 main:
+  - title: A Novel Framework for Multimodal Brain Tumor Detection with Scarce Labels
+    authors: Yanning Ge; Li Xu; <strong><u>Xiaoding Wang*</u></strong>; Youxiong Que; Md. Jalil Piran
+    journal_short: JBHI
+    journal: IEEE Journal of Biomedical and Health Informatics (JBHI)
+    pdf: ./assets/files/65.pdf
+    doi: 
+    type: "1"
+    bibtex: | 
+            @article{ge2024novel,
+              title={A Novel Framework for Multimodal Brain Tumor Detection with Scarce Labels},
+              author={Ge, Yanning and Xu, Li and Wang, Xiaoding and Que, Youxiong and Piran, Md Jalil},
+              journal={IEEE Journal of Biomedical and Health Informatics},
+              year={2024},
+              publisher={IEEE}
+            }
+      
+    notes: SCI-2区 TOP
+
   - title: SemantiChain:A Trust Retrieval Blockchain basedon Semantic Sharding
     authors: Zihang Zhen; <strong><u>Xiaoding Wang*</u></strong>; Xu Yang; Jiwu Shu; Jia Hu; Hui Lin; Xun Yi
     journal_short: TIFS
