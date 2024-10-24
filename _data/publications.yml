@@ -4,15 +4,17 @@ main:
     journal_short: FCR
     journal: Field Crops Research (FCR)
     pdf: ./assets/files/67.pdf
-    doi: 
+    doi: https://doi.org/10.1016/j.fcr.2024.109588
     type: "1"
     bibtex: | 
-            @article{ge2024novel,
-              title={A Novel Framework for Multimodal Brain Tumor Detection with Scarce Labels},
-              author={Ge, Yanning and Xu, Li and Wang, Xiaoding and Que, Youxiong and Piran, Md Jalil},
-              journal={IEEE Journal of Biomedical and Health Informatics},
+            @article{wang2024digital,
+              title={Digital evolution and twin miracle of sugarcane breeding},
+              author={Wang, Xiaoding and Wu, Qibin and Zeng, Haitao and Yang, Xu and Yang, Xuechao and Yi, Xun and Khalil, Ibrahim and Que, Youxiong},
+              journal={Field Crops Research},
+              volume={318},
+              pages={109588},
               year={2024},
-              publisher={IEEE}
+              publisher={Elsevier}
             }
     notes: SCI-1区 TOP
 
