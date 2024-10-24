@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Oct. 2024]</strong> Our paper "Adaptive Federated Deep Learning-based Semantic Communication in the Social Internet of Things"  is accepted by IEEE Internet of Things Journal (IOT). </li>
 <li><strong>[Sep. 2024]</strong> Our paper "Digital evolution and twin miracle of sugarcane breeding"  is accepted by Field Crops Research (FCR). </li>
 <li><strong>[Sep. 2024]</strong> Our paper "A Novel Framework for Multimodal BrainTumor Detection with Scarce Labels"  is accepted by IEEE Journal of Biomedical and Health Informatics (JBHI). </li>
 <li><strong>[Aug. 2024]</strong> Our paper "Anonymous and Efficient Federated Learning in Vehicle Road Cooperation Systems with Augmented Intelligence of Things"  is accepted by IEEE Internet of Things (IOT). </li>

@@ -1,4 +1,43 @@
 main:
+  - title: Digital evolution and twin miracle of sugarcane breeding
+    authors: <strong><u>Xiaoding Wang</u></strong>; Qibin Wu; Haitao Zeng; Xu Yang; Xuechao Yang; Xun Yi; Ibrahim Khalil; Youxiong Que
+    journal_short: JBHI
+    journal: IEEE Journal of Biomedical and Health Informatics (JBHI)
+    pdf: ./assets/files/65.pdf
+    doi: 
+    type: "1"
+    bibtex: | 
+            @article{ge2024novel,
+              title={A Novel Framework for Multimodal Brain Tumor Detection with Scarce Labels},
+              author={Ge, Yanning and Xu, Li and Wang, Xiaoding and Que, Youxiong and Piran, Md Jalil},
+              journal={IEEE Journal of Biomedical and Health Informatics},
+              year={2024},
+              publisher={IEEE}
+            }
+    notes: SCI-1区 TOP
+
+  - title: Adaptive Federated Deep Learning-based Semantic Communication in the Social Internet of Things
+    authors: Weixing Tan; Yusen Wang; Lei Liu; <strong><u>Xiaoding Wang</u></strong>; Tong Ding
+    journal_short: IOT
+    journal: IEEE Internet of Things Journal (IOT)
+    pdf: ./assets/files/66.pdf
+    doi: https://doi.org/10.1109/JIOT.2024.3484230
+    type: "1"
+    bibtex: | 
+
+            @ARTICLE{10729265,
+              author={Tan, Weixing and Wang, Yusen and Liu, Lei and Wang, Xiaoding and Ding, Tong},
+              journal={IEEE Internet of Things Journal}, 
+              title={Adaptive Federated Deep Learning-based Semantic Communication in the Social Internet of Things}, 
+              year={2024},
+              volume={},
+              number={},
+              pages={1-1},
+              keywords={Adaptation models;Social Internet of Things;Bandwidth;Data models;Signal to noise ratio;Reliability;Federated learning;Decoding;Training;Deep reinforcement learning;social internet of things;semantic communication;deep learning;deep reinforcement learning;federated learning},
+              doi={10.1109/JIOT.2024.3484230}}
+      
+    notes: SCI-1区 TOP, CCF C
+
   - title: A Novel Framework for Multimodal Brain Tumor Detection with Scarce Labels
     authors: Yanning Ge; Li Xu; <strong><u>Xiaoding Wang*</u></strong>; Youxiong Que; Md. Jalil Piran
     journal_short: JBHI
@@ -15,7 +54,7 @@ main:
               publisher={IEEE}
             }
       
-    notes: SCI-2区 TOP
+    notes: SCI-2区 TOP，CCF C
 
   - title: SemantiChain:A Trust Retrieval Blockchain basedon Semantic Sharding
     authors: Zihang Zhen; <strong><u>Xiaoding Wang*</u></strong>; Xu Yang; Jiwu Shu; Jia Hu; Hui Lin; Xun Yi
@@ -815,123 +854,123 @@ main:
             }
     notes: SCI-1区 Top, CCF C
 
-  - title: Federated deep reinforcement learning based secure data sharing for Internet of Things
-    authors: Qinyang Miao; Hui Lin; <strong><u>Xiaoding Wang*</u></strong>; Mohammad Mehedi Hassan
-    journal_short: CN
-    journal: Computer Networks <strong>(CN))</strong>
-    doi: https://doi.org/10.1016/j.comnet.2021.108327
-    pdf: ./assets/files/23.pdf
-    type: "1"
-    bibtex: |
-            @article{miao2021federated,
-              title={Federated deep reinforcement learning based secure data sharing for Internet of Things},
-              author={Miao, Qinyang and Lin, Hui and Wang, Xiaoding and Hassan, Mohammad Mehedi},
-              journal={Computer Networks},
-              volume={197},
-              pages={108327},
-              year={2021},
-              publisher={Elsevier}
-            }
-    notes: SCI-2区, CCF B
+#  - title: Federated deep reinforcement learning based secure data sharing for Internet of Things
+#    authors: Qinyang Miao; Hui Lin; <strong><u>Xiaoding Wang*</u></strong>; Mohammad Mehedi Hassan
+#    journal_short: CN
+#    journal: Computer Networks <strong>(CN))</strong>
+#    doi: https://doi.org/10.1016/j.comnet.2021.108327
+#   pdf: ./assets/files/23.pdf
+#    type: "1"
+#    bibtex: |
+#           @article{miao2021federated,
+#              title={Federated deep reinforcement learning based secure data sharing for Internet of Things},
+#              author={Miao, Qinyang and Lin, Hui and Wang, Xiaoding and Hassan, Mohammad Mehedi},
+#              journal={Computer Networks},
+#              volume={197},
+#              pages={108327},
+#              year={2021},
+#              publisher={Elsevier}
+#            }
+#    notes: SCI-2区, CCF B /*
 
-  - title: Graph partition based privacy-preserving scheme in social networks
-    authors: Hongyan Zhang;  Limei Lin; Li Xu; <strong><u>Xiaoding Wang</u></strong>
-    journal_short: JNCA
-    journal: Journal of Network and Computer Applications <strong>(JNCA))</strong>
-    doi: https://doi.org/10.1016/j.jnca.2021.103214
-    pdf: ./assets/files/22.pdf
-    type: "1"
-    bibtex: |
-            @article{zhang2021graph,
-              title={Graph partition based privacy-preserving scheme in social networks},
-              author={Zhang, Hongyan and Lin, Limei and Xu, Li and Wang, Xiaoding},
-              journal={Journal of Network and Computer Applications},
-              volume={195},
-              pages={103214},
-              year={2021},
-              publisher={Elsevier}
-            }
-    notes: SCI-2区, CCF C
+#  - title: Graph partition based privacy-preserving scheme in social networks
+#    authors: Hongyan Zhang;  Limei Lin; Li Xu; <strong><u>Xiaoding Wang</u></strong>
+#    journal_short: JNCA
+#    journal: Journal of Network and Computer Applications <strong>(JNCA))</strong>
+#    doi: https://doi.org/10.1016/j.jnca.2021.103214
+#    pdf: ./assets/files/22.pdf
+#    type: "1"
+#    bibtex: |
+#            @article{zhang2021graph,
+#              title={Graph partition based privacy-preserving scheme in social networks},
+#              author={Zhang, Hongyan and Lin, Limei and Xu, Li and Wang, Xiaoding},
+#              journal={Journal of Network and Computer Applications},
+#              volume={195},
+#              pages={103214},
+#              year={2021},
+#              publisher={Elsevier}
+#            }
+#    notes: SCI-2区, CCF C
 
-  - title: Intelligent Drone-Assisted Fault Diagnosis for B5G-Enabled Space-Air-Ground-Space Networks
-    authors: <strong><u>Xiaoding Wang</u></strong>; Hui Lin; Hongyan Zhang; Dejun Miao; Qinyang Miao; Wenxin Liu
-    journal_short: IEEE Trans. Netw. 
-    journal: IEEE Transactions on Network Science and Engineering <strong>(IEEE Trans. Netw. ))</strong>
-    doi: https://doi.org/10.1109/tnse.2020.3043624
-    pdf: ./assets/files/21.pdf
-    type: "1"
-    bibtex: |
-            @article{wang2020intelligent,
-              title={Intelligent drone-assisted fault diagnosis for B5G-enabled space-air-ground-space networks},
-              author={Wang, Xiaoding and Lin, Hui and Zhang, Hongyan and Miao, Dejun and Miao, Qinyang and Liu, Wenxin},
-              journal={IEEE Transactions on Network Science and Engineering},
-              volume={8},
-              number={4},
-              pages={2849--2860},
-              year={2020},
-              publisher={IEEE}
-            }
-    notes: SCI-2区
+#  - title: Intelligent Drone-Assisted Fault Diagnosis for B5G-Enabled Space-Air-Ground-Space Networks
+#    authors: <strong><u>Xiaoding Wang</u></strong>; Hui Lin; Hongyan Zhang; Dejun Miao; Qinyang Miao; Wenxin Liu
+#    journal_short: IEEE Trans. Netw. 
+#    journal: IEEE Transactions on Network Science and Engineering <strong>(IEEE Trans. Netw. ))</strong>
+#    doi: https://doi.org/10.1109/tnse.2020.3043624
+#    pdf: ./assets/files/21.pdf
+#    type: "1"
+#    bibtex: |
+#            @article{wang2020intelligent,
+#              title={Intelligent drone-assisted fault diagnosis for B5G-enabled space-air-ground-space networks},
+#              author={Wang, Xiaoding and Lin, Hui and Zhang, Hongyan and Miao, Dejun and Miao, Qinyang and Liu, Wenxin},
+#              journal={IEEE Transactions on Network Science and Engineering},
+#              volume={8},
+#              number={4},
+#              pages={2849--2860},
+#              year={2020},
+#              publisher={IEEE}
+#            }
+#    notes: SCI-2区
 
-  - title: "PPCS: An Intelligent Privacy-Preserving Mobile-Edge Crowdsensing Strategy for Industrial IoT"
-    authors: <strong><u>Xiaoding Wang</u></strong>; Sahil Garg; Hui Lin; Georges Kaddoum; Jia Hu; M. Shamim Hossain
-    journal_short: IOT
-    journal: IEEE Internet of Things Journal <strong>(IOT))</strong>
-    doi: https://doi.org/10.1109/jiot.2020.3032797
-    pdf: ./assets/files/20.pdf
-    type: "1"
-    bibtex: |
-            @article{wang2020ppcs,
-              title={PPCS: An intelligent privacy-preserving mobile-edge crowdsensing strategy for industrial IoT},
-              author={Wang, Xiaoding and Garg, Sahil and Lin, Hui and Kaddoum, Georges and Hu, Jia and Hossain, M Shamim},
-              journal={IEEE Internet of Things Journal},
-              volume={8},
-              number={13},
-              pages={10288--10298},
-              year={2020},
-              publisher={IEEE}
-            }
-    notes: SCI-1区 Top, CCF C
+#  - title: "PPCS: An Intelligent Privacy-Preserving Mobile-Edge Crowdsensing Strategy for Industrial IoT"
+#    authors: <strong><u>Xiaoding Wang</u></strong>; Sahil Garg; Hui Lin; Georges Kaddoum; Jia Hu; M. Shamim Hossain
+#    journal_short: IOT
+#    journal: IEEE Internet of Things Journal <strong>(IOT))</strong>
+#    doi: https://doi.org/10.1109/jiot.2020.3032797
+#    pdf: ./assets/files/20.pdf
+#    type: "1"
+#    bibtex: |
+#            @article{wang2020ppcs,
+#              title={PPCS: An intelligent privacy-preserving mobile-edge crowdsensing strategy for industrial IoT},
+#              author={Wang, Xiaoding and Garg, Sahil and Lin, Hui and Kaddoum, Georges and Hu, Jia and Hossain, M Shamim},
+#              journal={IEEE Internet of Things Journal},
+#              volume={8},
+#              number={13},
+#              pages={10288--10298},
+#              year={2020},
+#              publisher={IEEE}
+#            }
+#    notes: SCI-1区 Top, CCF C
 
-  - title: Privacy-Enhanced Data Fusion for COVID-19 Applications in Intelligent Internet of Medical Things
-    authors: Hui Lin; Sahil Garg; Jia Hu; <strong><u>Xiaoding Wang*</u></strong>; Md. Jalil Piran; M. Shamim Hossain
-    journal_short: IOT
-    journal: IEEE Internet of Things Journal <strong>(IOT))</strong>
-    doi: https://doi.org/10.1109/jiot.2020.3033129
-    pdf: ./assets/files/19.pdf
-    type: "1"
-    bibtex: |
-            @article{lin2020privacy,
-              title={Privacy-enhanced data fusion for COVID-19 applications in intelligent Internet of medical Things},
-              author={Lin, Hui and Garg, Sahil and Hu, Jia and Wang, Xiaoding and Piran, Md Jalil and Hossain, M Shamim},
-              journal={IEEE Internet of Things Journal},
-              volume={8},
-              number={21},
-              pages={15683--15693},
-              year={2020},
-              publisher={IEEE}
-            }
-    notes: SCI-1区 Top, CCF C
+#  - title: Privacy-Enhanced Data Fusion for COVID-19 Applications in Intelligent Internet of Medical Things
+#    authors: Hui Lin; Sahil Garg; Jia Hu; <strong><u>Xiaoding Wang*</u></strong>; Md. Jalil Piran; M. Shamim Hossain
+#    journal_short: IOT
+#    journal: IEEE Internet of Things Journal <strong>(IOT))</strong>
+#    doi: https://doi.org/10.1109/jiot.2020.3033129
+#    pdf: ./assets/files/19.pdf
+#    type: "1"
+#    bibtex: |
+#            @article{lin2020privacy,
+#              title={Privacy-enhanced data fusion for COVID-19 applications in intelligent Internet of medical Things},
+#              author={Lin, Hui and Garg, Sahil and Hu, Jia and Wang, Xiaoding and Piran, Md Jalil and Hossain, M Shamim},
+#              journal={IEEE Internet of Things Journal},
+#              volume={8},
+#              number={21},
+#              pages={15683--15693},
+#              year={2020},
+#              publisher={IEEE}
+#            }
+#    notes: SCI-1区 Top, CCF C
 
-  - title: Toward Secure Data Fusion in Industrial IoT Using Transfer Learning
-    authors: Hui Lin; Jia Hu; <strong><u>Xiaoding Wang*</u></strong>; Mohammed F. Alhamid; Md. Jalil Piran
-    journal_short: TII
-    journal: IEEE Transactions on Industrial Informatics <strong>(TII))</strong>
-    doi: https://doi.org/10.1109/tii.2020.3038780
-    pdf: ./assets/files/18.pdf
-    type: "1"
-    bibtex: |
-            @article{lin2020toward,
-              title={Toward secure data fusion in industrial IoT using transfer learning},
-              author={Lin, Hui and Hu, Jia and Wang, Xiaoding and Alhamid, Mohammed F and Piran, Md Jalil},
-              journal={IEEE Transactions on Industrial Informatics},
-              volume={17},
-              number={10},
-              pages={7114--7122},
-              year={2020},
-              publisher={IEEE}
-            }
-    notes: SCI-1区 Top, CCF C
+#  - title: Toward Secure Data Fusion in Industrial IoT Using Transfer Learning
+#    authors: Hui Lin; Jia Hu; <strong><u>Xiaoding Wang*</u></strong>; Mohammed F. Alhamid; Md. Jalil Piran
+#    journal_short: TII
+#    journal: IEEE Transactions on Industrial Informatics <strong>(TII))</strong>
+#    doi: https://doi.org/10.1109/tii.2020.3038780
+#    pdf: ./assets/files/18.pdf
+#    type: "1"
+#    bibtex: |
+#            @article{lin2020toward,
+#              title={Toward secure data fusion in industrial IoT using transfer learning},
+#              author={Lin, Hui and Hu, Jia and Wang, Xiaoding and Alhamid, Mohammed F and Piran, Md Jalil},
+#              journal={IEEE Transactions on Industrial Informatics},
+#              volume={17},
+#              number={10},
+#              pages={7114--7122},
+#              year={2020},
+#              publisher={IEEE}
+#            }
+#    notes: SCI-1区 Top, CCF C
 
   - title: A cross-blockchain based distributed crowdsouring system for Internet of Things
     authors: Min Peng; QinYang Miao; Hui Lin; <strong><u>Xiaoding Wang*</u></strong>
@@ -1087,7 +1126,7 @@ main:
             publisher={Wiley Online Library}
             }
     #image: ./assets/teaser/9.png 
-    notes: SCI-4区
+    notes: SCI-4区，CCF C
 
   - title: Extra diagnosability and good-neighbor diagnosability of n-dimensional alternating group graph AG(n) under the PMC model
     authors: Yanze Huang; Limei Lin; Li Xu; <strong><u>Xiaoding Wang</u></strong>
@@ -1151,24 +1190,24 @@ main:
     #image: ./assets/teaser/6.png 
     notes: SCI-4区
 
-  - title: A Privacy-Preserving Approach Based on Graph Partition for Uncertain Trajectory Publishing
-    authors: Jianchuan Xiao; Li Xu; Limei Lin; <strong><u>Xiaoding Wang</u></strong>
-    journal_short: ISPDC
-    journal: 2016 15th International Symposium on Parallel and Distributed Computing <strong>(ISPDC))</strong>
-    doi: https://doi.org/10.1109/ispdc.2016.48
-    pdf: ./assets/files/5.pdf
-    type: "2"
-    bibtex: |
-            @inproceedings{xiao2016privacy,
-            title={A privacy-preserving approach based on graph partition for uncertain trajectory publishing},
-            author={Xiao, Jianchuan and Xu, Li and Lin, Limei and Wang, Xiaoding},
-            booktitle={2016 15th International Symposium on Parallel and Distributed Computing (ISPDC)},
-            pages={285--290},
-            year={2016},
-            organization={IEEE}
-            }
+#  - title: A Privacy-Preserving Approach Based on Graph Partition for Uncertain Trajectory Publishing
+#    authors: Jianchuan Xiao; Li Xu; Limei Lin; <strong><u>Xiaoding Wang</u></strong>
+#    journal_short: ISPDC
+#    journal: 2016 15th International Symposium on Parallel and Distributed Computing <strong>(ISPDC))</strong>
+#    doi: https://doi.org/10.1109/ispdc.2016.48
+#    pdf: ./assets/files/5.pdf
+#    type: "2"
+#    bibtex: |
+#            @inproceedings{xiao2016privacy,
+#            title={A privacy-preserving approach based on graph partition for uncertain trajectory publishing},
+#            author={Xiao, Jianchuan and Xu, Li and Lin, Limei and Wang, Xiaoding},
+#            booktitle={2016 15th International Symposium on Parallel and Distributed Computing (ISPDC)},
+#            pages={285--290},
+#            year={2016},
+#            organization={IEEE}
+#            }
     #image: ./assets/teaser/5.png 
-    notes: EI
+#    notes: EI
 
   - title: A Resolving Set based Algorithm for Fault Identification in Wireless Mesh Networks
     authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou; Joseph K. Liu
