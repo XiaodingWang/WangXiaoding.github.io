@@ -1,9 +1,9 @@
 main:
   - title: Digital evolution and twin miracle of sugarcane breeding
     authors: <strong><u>Xiaoding Wang</u></strong>; Qibin Wu; Haitao Zeng; Xu Yang; Xuechao Yang; Xun Yi; Ibrahim Khalil; Youxiong Que
-    journal_short: JBHI
-    journal: IEEE Journal of Biomedical and Health Informatics (JBHI)
-    pdf: ./assets/files/65.pdf
+    journal_short: FCR
+    journal: Field Crops Research (FCR)
+    pdf: ./assets/files/67.pdf
     doi: 
     type: "1"
     bibtex: | 
