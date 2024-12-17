@@ -691,6 +691,26 @@ main:
             }
     notes: SCI-4区
 
+  - title: "PPCS: An Intelligent Privacy-Preserving Mobile-Edge Crowdsensing Strategy for Industrial IoT"
+    authors: <strong><u>Xiaoding Wang</u></strong>; Sahil Garg; Hui Lin; Georges Kaddoum; Jia Hu; M. Shamim Hossain
+    journal_short: IOT
+    journal: IEEE Internet of Things Journal <strong>(IOT)</strong>
+    pdf: ./assets/files/70.pdf
+    doi: https://doi.org/10.1109/JIOT.2020.3032797
+    type: "1"
+    bibtex: | 
+            @article{wang2020ppcs,
+              title={PPCS: An intelligent privacy-preserving mobile-edge crowdsensing strategy for industrial IoT},
+              author={Wang, Xiaoding and Garg, Sahil and Lin, Hui and Kaddoum, Georges and Hu, Jia and Hossain, M Shamim},
+              journal={IEEE Internet of Things Journal},
+              volume={8},
+              number={13},
+              pages={10288--10298},
+              year={2020},
+              publisher={IEEE}
+            }
+    notes: SCI-1区 Top, CCF C
+
   - title: "QoS and Privacy-Aware Routing for 5G-Enabled Industrial Internet of Things: A Federated Reinforcement Learning Approach"
     authors: <strong><u>Xiaoding Wang</u></strong>; Jia Hu; Hui Lin; Sahil Garg; Georges Kaddoum; Md. Jalil Piran; M. Shamim Hossain
     journal_short: TII
@@ -707,6 +727,26 @@ main:
               number={6},
               pages={4189--4197},
               year={2021},
+              publisher={IEEE}
+            }
+    notes: SCI-1区 Top, CCF C
+
+  - title: Privacy-enhanced data fusion for COVID-19 applications in intelligent Internet of medical Things
+    authors: Hui Lin; Sahil Garg; Jia Hu; <strong><u>Xiaoding Wang</u></strong>; Md. Jalil Piran; M. Shamim Hossain
+    journal_short: IOT
+    journal: IEEE Internet of Things Journal <strong>(IOT)</strong>
+    pdf: ./assets/files/69.pdf
+    doi: https://doi.org/10.1109/JIOT.2020.3033129
+    type: "1"
+    bibtex: | 
+            @article{lin2020privacy,
+              title={Privacy-enhanced data fusion for COVID-19 applications in intelligent Internet of medical Things},
+              author={Lin, Hui and Garg, Sahil and Hu, Jia and Wang, Xiaoding and Piran, Md Jalil and Hossain, M Shamim},
+              journal={IEEE Internet of Things Journal},
+              volume={8},
+              number={21},
+              pages={15683--15693},
+              year={2020},
               publisher={IEEE}
             }
     notes: SCI-1区 Top, CCF C
