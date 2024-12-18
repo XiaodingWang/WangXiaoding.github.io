@@ -771,6 +771,26 @@ main:
             }
     notes: SCI-1区 Top, CCF C
 
+  - title: Toward Secure Data Fusion in Industrial IoT Using Transfer Learning
+    authors: Hui Lin; Jia Hu; <strong><u>Xiaoding Wang</u></strong>; Mohammed F. Alhamid; Md. Jalil Piran
+    journal_short: TII
+    journal: IEEE Transactions on Industrial Informatics <strong>(TII)</strong>
+    pdf: ./assets/files/71.pdf
+    doi: https://doi.org/10.1109/TII.2020.3038780
+    type: "1"
+    bibtex: | 
+            @article{lin2020toward,
+              title={Toward secure data fusion in industrial IoT using transfer learning},
+              author={Lin, Hui and Hu, Jia and Wang, Xiaoding and Alhamid, Mohammed F and Piran, Md Jalil},
+              journal={IEEE Transactions on Industrial Informatics},
+              volume={17},
+              number={10},
+              pages={7114--7122},
+              year={2020},
+              publisher={IEEE}
+            }
+    notes: SCI-1区 Top, CCF C
+
   - title: A Mobile Crowd Sensing Ecosystem based on Fog Computing Infrastructure
     authors: Liwei Lin; Xia Lin; <strong><u>Xiaoding Wang</u></strong>
     journal_short: IUCC/CIT/DSCI/SmartCNS
