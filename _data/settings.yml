@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Xiaoding Wang', title: 'Associate Professor', department: 'College of Computer and Cyber Security', institution: 'Fujian Normal University', institution_address: 'FUZHOU, CHINA', phone: '(000) 000-0000', email: 'wangdin1982@fjnu.edu.cn', office: 'Science Building #18', image: 'assets/img/contact.png'}
+- {name: 'Xiaoding Wang', title: 'Professor', department: 'College of Computer and Cyber Security', institution: 'Fujian Normal University', institution_address: 'FUZHOU, CHINA', phone: '(000) 000-0000', email: 'wangdin1982@fjnu.edu.cn', office: 'Science Building #18', image: 'assets/img/contact.png'}
